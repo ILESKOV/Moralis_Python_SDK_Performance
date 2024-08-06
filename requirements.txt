@@ -1,0 +1,6 @@
+moralis
+pytest
+locust
+requests
+python-dotenv
+
